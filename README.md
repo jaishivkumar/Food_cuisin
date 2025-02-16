@@ -128,7 +128,7 @@ This project is a backend service designed to assist users in exploring Indian c
       
  ##  8 Search the Dishes  
   - **Endpoint:**  `  GET http://localhost:3000/dishes/search?flavor_profile=sweet&max_cook_time=25`
-![Screenshot 2025-02-16 220651](https://github.com/user-attachments/assets/53ed862c-9a7e-4202-ad5c-6056b0d0dad6)
+(https://github.com/user-attachments/assets/53ed862c-9a7e-4202-ad5c-6056b0d0dad6)
 
 
 ## Running Tests
