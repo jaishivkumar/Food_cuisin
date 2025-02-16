@@ -145,3 +145,5 @@ npm test
 
 ## License
 This project is licensed under the MIT License.
+![Screenshot 2025-02-16 221255](https://github.com/user-attachments/assets/69d86682-d9b4-44f3-a8e8-a01d3986a1b3)
+
